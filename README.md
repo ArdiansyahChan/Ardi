@@ -1,2 +1,2 @@
 <head>
- <p> ARDI <p>
+ <h1> ARDI <h1>
