@@ -4,8 +4,6 @@
    </head>
    <body>
 <h1>Chan Ardiansyah</h1>
-<p>Pls enjoy this good for ntg nonsense.</p>
-</body>
-<img src="w3schools.jpg" alt="W3Schools.com" width="104" height="142">
+<p>This is my own peronal biography :).</p>
 
 </html>
